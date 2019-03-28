@@ -12,5 +12,5 @@ In this activity, I created a React-based Google Books Search application. My ap
 
 ***
 ### Deployed Site
-[Google Book Search](https://google-gook-search.herokuapp.com/)    
+[Google Book Search](https://google-book-search2407.herokuapp.com/)    
 
